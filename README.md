@@ -1,7 +1,7 @@
 <h1 align="center">Halo! 👋 Saya Dina Suzzete Sitorus</h1>
 
 <p align="center">
-  ![Anjing Kartun Menari](https://id.picmix.com/stamp/Dog-Happy-Dance-2474520)
+ <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width="250" />
 </p>
 
 ## 📬 Hubungi Saya
